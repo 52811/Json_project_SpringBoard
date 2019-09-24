@@ -1,2 +1,2 @@
-# Json_project_SpringBoard
+# Json_project
 Json_Mini_Project
